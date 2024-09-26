@@ -1,4 +1,3 @@
-# 30-Days-Js-Challenges-chaiaurcode
 # 30 Days JS Challenges - Course Journey
 
 Welcome to my README file for the "30 Days JS Challenges" course by ChaiaurCode and Hiesh Choudhary. This document reflects my experience and learning throughout this 30-day journey.
