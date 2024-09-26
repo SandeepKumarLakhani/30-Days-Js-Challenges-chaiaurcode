@@ -5,6 +5,9 @@ Welcome to my README file for the "30 Days JS Challenges" course by ChaiaurCode 
 
 ## Course Overview
 
+![image](https://github.com/user-attachments/assets/c8d73b2d-e7bb-452e-98e7-480d16b43f7c)
+
+
 The "30 Days JS Challenges" course is a comprehensive 30-day program designed to enhance JavaScript skills through daily coding challenges. It is structured to progressively build knowledge and practical skills in JavaScript.
 
 ## My Learning Journey
